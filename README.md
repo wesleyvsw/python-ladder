@@ -4,7 +4,7 @@ Gera blocos Ladder (LAD) e tabelas de tags em XML para importar no TIA Portal.
 ## Instalação
 
 ```
-pip install git+https://github.com/wesleyvsw/ladder-tia.git
+pip install git+https://github.com/wesleyvsw/python-ladder.git
 ```
 
 ## Exemplo
