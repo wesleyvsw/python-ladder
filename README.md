@@ -10,7 +10,7 @@ pip install git+https://github.com/wesleyvsw/python-ladder.git
 ## Exemplo
 
 ```python
-from ladder_tia import ProjetoLadder, Elemento
+from python_ladder import ProjetoLadder, Elemento
 
 projeto = ProjetoLadder("MeuBloco", pasta="saida")
 projeto.adicionar_rede([
